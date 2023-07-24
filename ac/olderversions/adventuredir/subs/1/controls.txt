@@ -1,0 +1,19 @@
+
+      ^
+      |
+      w
+<--a     d-->
+ <-q     f->
+      s
+      |
+      v
+
+moedas:  moedas podem ser encontradas no jogo, elas são representadas pelo caractere '$'
+items:   items também podem ser encontrados no jogo, são representados por uma letra, eles se parecem com  c  ou  l
+hp       hp são os seus pontos de vida, são perdidos quando o jogador recebe dano e ganhados com poções, se o hp se tornar 0, você morre e reaparece na última sala que esvaziou
+dano:    esse dano representa o dano que você pode causar em criaturas*
+
+*criaturas podem aparecer durante o jogo, são representadas por um número, se pareceriam como  1  ou  2
+esse número também representa o hp da criatura em questão.
+criaturas causam dano sobre você ao se mover na sua direção uma vêz por rodada e chegarem ao seu lado. Você pode causar dano
+para elas ao se mover até os seus espaços.

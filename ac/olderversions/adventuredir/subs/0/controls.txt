@@ -1,0 +1,19 @@
+
+      ^
+      |
+      w
+<--a     d-->
+ <-q     f->
+      s
+      |
+      v
+
+coins:   coins can be found in the game, they are represented by the '$' character
+items:   items can also be found in the game, they are represented by some letter, they would look like  c  or  l
+hp:      hit points are lost when the player takes damage and can be gained with potions, if they hit 0, you die and reapear back at the last room you cleared
+damage:  this damage represents the amount of damage you can deal to creatures*
+
+*creatures might show up during the game, they are represented by a number, they would look like  1  or  2
+this number represents the hit points of the creature.
+creatures deal damage to you by moving towards you once per round and being adjacent to you. you can also deal damage
+to creatures by moving into their space.
