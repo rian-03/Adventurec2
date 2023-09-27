@@ -1,3 +1,3 @@
 # adventurec2
 
-##  spaces are much freer thand adventurec, thats the biggest change
+##  spaces are much freer than adventurec, thats the biggest change
