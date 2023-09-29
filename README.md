@@ -10,4 +10,4 @@
    - Big changes like dinamic memory, a .h file with a src/ directory and many more will come.
    - I'm also changing the boolean of spaces into a full byte that allows for many more 'rooms' in one space
    - The more noticeable change though will be that creatures around the world will now have things they say, trades, etc, basically it's more than just monsters and traders
-   - I'll also set up a more interesting world in the default game so you'll be able to see what can be done with this
+   - I'll also set up a more interesting world in the 'default game' so you'll be able to see what can be done with this
